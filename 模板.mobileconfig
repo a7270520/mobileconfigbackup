@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data></data>
+			<key>IsRemovable</key>
+			<false/>
+			<key>Label</key>
+			<string>APPNAME</string>
+			<key>PayloadDescription</key>
+			<string>Configures settings for a web clip</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.7C691824-5567-4381-81DC-829F2B656577</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>7C691824-5567-4381-81DC-829F2B656577</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+    <string>请点击右上角的“安装”按钮
+该安装证书已经通过苹果官方认证
+该安装会在您的手机桌面上添加一个APPNAME入口
+如果手机设置了锁屏密码，需要输入密码后才能完成安装,请放心安装</string>
+	<key>PayloadDisplayName</key>
+	<string>APPNAME</string>
+	<key>PayloadIdentifier</key>
+	<string>g500cpw-Pro.96C091C4-5F8E-4894-9F03-BF9EB27FD9EE</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8120747B-096D-4D1D-BAA0-B016C96F5F81</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

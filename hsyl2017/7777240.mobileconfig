@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>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</data>
+			<key>IsRemovable</key>
+			<false/>
+			<key>Label</key>
+			<string>花生娱乐</string>
+			<key>PayloadDescription</key>
+			<string>Configures settings for a web clip</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.7C691824-5567-4381-81DC-829F2B656577</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>7C691824-5567-4381-81DC-829F2B656577</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>http://7777240.com</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+    <string>请点击右上角的“安装”按钮
+该安装证书已经通过苹果官方认证
+该安装会在您的手机桌面上添加一个花生娱乐入口
+如果手机设置了锁屏密码，需要输入密码后才能完成安装,请放心安装</string>
+	<key>PayloadDisplayName</key>
+	<string>花生娱乐</string>
+	<key>PayloadIdentifier</key>
+	<string>7777240-Pro.96C091C4-5F8E-4894-9F03-BF9EB27FD9EE</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8120747B-096D-4D1D-BAA0-B016C96F5F81</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
